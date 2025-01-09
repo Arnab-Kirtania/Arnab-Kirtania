@@ -1,6 +1,6 @@
 <h1>Hi, I'm Arnab!
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 <h2>📄 Certificaions:</h2>
 - [Google Cybersecurity Professional]
