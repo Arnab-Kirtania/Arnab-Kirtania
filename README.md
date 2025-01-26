@@ -1,7 +1,7 @@
 <h1>Hi, I'm Arnab!
 
 <h2>👨‍💻 Projects:</h2>
-
+- [Conducting a Security Audit](https://docs.google.com/document/d/1jVrrxPK-e3pYxzdb-IHwbcayAuiAal17rKr8ND1csaA/edit?usp=sharing)
 <h2>📄 Certificaions:</h2>
 - [Google Cybersecurity Professional]
 
