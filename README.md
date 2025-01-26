@@ -1,4 +1,5 @@
 <h1>Hi, I'm Arnab! </h1>
+Results-driven individual with a Bachelor of Fine Arts in Film and Animation, complemented by the Google Cybersecurity Certificate and working toward obtaining CompTIA A+ certification. Experienced in managing technical workflows and troubleshooting across Windows, Linux, and macOS. Seeking to leverage a strong technical foundation and creative problem-solving skills to excel in IT.
 
 <h2>👨‍💻 Projects:</h2>
 - Security Audit: https://docs.google.com/document/d/1jVrrxPK-e3pYxzdb-IHwbcayAuiAal17rKr8ND1csaA/edit?usp=sharing <br>
