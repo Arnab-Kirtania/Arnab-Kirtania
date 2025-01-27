@@ -5,6 +5,7 @@ Results-driven individual with a Bachelor of Fine Arts in Film and Animation, co
 - Security Audit: https://docs.google.com/document/d/1jVrrxPK-e3pYxzdb-IHwbcayAuiAal17rKr8ND1csaA/edit?usp=sharing <br>
 - Incident Report Analysis: https://docs.google.com/document/d/1__XGGXxwcZrY9wgtc6QcP-VBl6EZg-M7aB3mWOx8sII/edit?usp=sharing <br>
 - Applying Filters to SQL Queries: https://youtu.be/hfwcYlLqlYY <br>
+- Vulnerability Assessment Report: https://docs.google.com/document/d/10lPxZfgwAcq_2hebCCZfQVeEg81h3trHcWF0UhPOQC4/edit?usp=sharing <br
 <h2>📄 Certificaions:</h2>
 - Google Cybersecurity: https://coursera.org/share/a19261f2a032050c75fb5d3379195a76  <br>
 - CompTIA A+ (Completed by 4/25)
