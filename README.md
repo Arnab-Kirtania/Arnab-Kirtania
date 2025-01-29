@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arnab! </h1>
+<h1>Hi, I'm [Arnab!](https://www.linkedin.com/in/arnabkirtania/) </h1>
 
 Results-driven individual with a Bachelor of Fine Arts in Film and Animation, complemented by the Google Cybersecurity Certificate and working toward obtaining CompTIA A+ certification. Experienced in managing technical workflows and troubleshooting across Windows, Linux, and macOS. Seeking to leverage a strong technical foundation and creative problem-solving skills to excel in IT.
 
@@ -21,7 +21,7 @@ Results-driven individual with a Bachelor of Fine Arts in Film and Animation, co
 
 [<img align="left" alt="Arnab Kirtania | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/arnab-kirtania-170426241/
+[linkedin]: https://www.linkedin.com/in/arnabkirtania/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
