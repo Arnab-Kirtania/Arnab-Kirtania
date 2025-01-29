@@ -1,4 +1,4 @@
-<h1>Hi, I'm [Arnab!](https://www.linkedin.com/in/arnabkirtania/) </h1>
+<h1>Hi, I'm Arnab! </h1>
 
 Results-driven individual with a Bachelor of Fine Arts in Film and Animation, complemented by the Google Cybersecurity Certificate and working toward obtaining CompTIA A+ certification. Experienced in managing technical workflows and troubleshooting across Windows, Linux, and macOS. Seeking to leverage a strong technical foundation and creative problem-solving skills to excel in IT.
 
