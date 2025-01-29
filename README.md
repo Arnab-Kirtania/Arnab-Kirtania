@@ -10,7 +10,7 @@ Results-driven individual with a Bachelor of Fine Arts in Film and Animation, co
 - Incident Handler's Journal: https://docs.google.com/document/d/1iBji0f23vIWPloewmUvVnVzzwzezUlpu-qNE8toRLgc/edit?usp=sharing <br>
 <h2>📄 Certificaions:</h2>
 - Google Cybersecurity: https://coursera.org/share/a19261f2a032050c75fb5d3379195a76  <br>
-- CompTIA A+ (Completed by 4/25)
+- CompTIA A+ - Currently Studying
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Arnab Kirtania | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
