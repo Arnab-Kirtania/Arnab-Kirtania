@@ -5,6 +5,7 @@ Results-driven individual with a Bachelor of Fine Arts in Film and Animation, co
 <h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Home Lab with Powershell](https://github.com/Arnab-Kirtania/Active-Directory-Home-Lab/blob/main/README.md)
+- [osTicket Installation](https://github.com/Arnab-Kirtania/osTicket-Installation/blob/main/README.md)
 - [Update a File Through a Python Algorithm](https://docs.google.com/document/d/1PmxeDNmEC9_oipZkRITV4Zi6PTWHMaV35jlxqNQjmQ4/edit?usp=sharing) <br>
 - [Security Audit](https://docs.google.com/document/d/1jVrrxPK-e3pYxzdb-IHwbcayAuiAal17rKr8ND1csaA/edit?usp=sharing) <br>
 - [Incident Report Analysis](https://docs.google.com/document/d/1__XGGXxwcZrY9wgtc6QcP-VBl6EZg-M7aB3mWOx8sII/edit?usp=sharing) <br>
